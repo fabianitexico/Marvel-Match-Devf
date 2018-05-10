@@ -1,7 +1,7 @@
 # Marvel Match - DevF
 > "With Great Power Comes Great Responsibility"  -Uncle Ben 
 
-----
+
 ### Practica FrontEnd para Alumnos del GDL-Batch2
 
 
