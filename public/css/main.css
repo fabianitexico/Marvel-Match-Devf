@@ -1,0 +1,52 @@
+body{
+    background-color:#dedede;
+}
+
+nav{
+    color:white;
+    background-color: rgb(250,0,6);
+    width: 100%;
+    margin-top: 0px;
+    padding:10px;
+
+    
+}
+
+.container h2{
+    
+}
+
+
+.tarjeta{
+
+    text-align: center;
+    padding: 20px;
+    color:#000;
+
+
+    background-color: #FFF;
+    border:  #ec1c22 1px solid;
+    transition: all 300ms ease;
+
+}
+
+.tarjeta img{
+
+}
+
+
+.likes{
+
+}
+
+.siguiente{
+    
+    font-size: 60px;
+    color: #e23636;
+    line-height: 200px;
+
+}
+
+.siguiente:active{
+    color: #8b2626;
+}
