@@ -1,3 +1,8 @@
-##Marvel Match - DevF GDL Batch2
+# Marvel Match - DevF
+> "With Great Power Comes Great Responsibility"  -Uncle Ben 
 
-Practica para Alumnos del GDL-Batch2 para la Desgraduación
+----
+### Practica FrontEnd para Alumnos del GDL-Batch2
+
+
+Este código pretende ser el esqueleto de una práctica que los alumnos deberán completar para ser presentada en la *desgraduación* de la generación
