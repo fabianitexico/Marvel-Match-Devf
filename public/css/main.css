@@ -1,5 +1,6 @@
 body{
-    background-color:#dedede;
+    background-image: url("http://static.comicvine.com/uploads/original/14/146951/3879604-6282234369-12556.jpg");
+    background-size: 100%;
 }
 
 nav{
@@ -10,6 +11,7 @@ nav{
     margin-top: 0px;
     padding:10px;
     text-align: center;
+    box-shadow: rgba(0,0,0,0.3) 0px 4px;
     
 }
 
@@ -23,15 +25,18 @@ nav{
     text-align: center;
     padding: 20px;
     color:#000;
-    background-color: #FFF;
+    background-color:lightgray;
     transition: all 300ms ease;
     height: 400px;
     width: 300px;
-    margin: 50px;
+    margin: 40px;
     border-radius: 7px 7px 7px 7px;
     box-shadow: rgba(0,0,0,0.5) 5px 5px 5px;
+    opacity: 0.8;
+}
 
-
+.tarjeta:hover{
+    transform: scale(1.1);
 }
 
 .tarjeta img{
@@ -55,3 +60,37 @@ nav{
     color: #8b2626;
 }
 
+
+#logo{
+    height: 75px;
+    width: 215px;
+}
+
+#pokemaster{
+    width: 75px;
+    height: 75px;
+}
+
+
+#heart{
+    margin-top: 200px;
+    width: 150px;
+    height: 150px;
+    
+}
+
+#heart:hover{
+    transform: scale(1.15);
+}
+
+.row{
+    margin-left: 270px;
+}
+
+.tamañoimagen{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 250px;
+    height: 250px;
+    
+}
